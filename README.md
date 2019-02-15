@@ -13,6 +13,10 @@ Els fitxers hi són organitzats de la manera següent:
 ## Altres fitxers
 
 * Makefile = fitxer de defincions per a la compilació
+
+* grafic.py = programa en llenguatge Python per llegir un fitxer de resultats 
+              en format CSV, i representar els seus contingut gràficament
+
 * xarxa_nodus.csv = definició dels nodus (xarxa de proves), en format CSV
 * xarxa_camins.csv = definició dels camins (xarxa de proves), en format CSV
 
