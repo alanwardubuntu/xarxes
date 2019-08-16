@@ -9,8 +9,17 @@ transport networks. Basic outputs should be:
 Programming is done in the C language, with some parts (graphical output) in 
 Python. Input files are simply in the Comma-Separated-Value (CSV) format.
 
-All code is licensed for free distribution under the Creative-Commons 
-Share-Alike No-Commercial Licence version 3.0 (CC BY-NC-SA 3.0). The full 
+All code and other files contained in this repository 
+is licensed for free use and distribution under the Creative-Commons 
+Share-Alike No-Commercial Licence version 3.0 (CC BY-NC-SA 3.0). Basically, you can:
+
+* Use this program freely for non-commercial purposes.
+* Use this program and all data freely for educational/investigation.
+* If you do publish software that is derived from this, or scientific 
+communications, then please do cite us!
+
+
+The full 
 text of this licence may be found here: https://creativecommons.org/licenses/by-nc-sa/3.0/ 
 
 ## Program source code -- the code/ subdirectory
